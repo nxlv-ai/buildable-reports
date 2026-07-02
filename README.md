@@ -93,3 +93,9 @@ Buildable Report does not publish private company data, bypass access controls
 or represent its reports as definitive internal assessments.
 
 Not an official Lovable product, certification, endorsement or audit.
+
+## Authorship and maintenance
+
+This project was created by [Lucio Amorim](https://linkedin.com/in/lucioamorim).
+
+When reusing, redistributing, or citing this work, keep the attribution credits and include a link to this repository.
